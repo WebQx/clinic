@@ -75,4 +75,5 @@ WebQx is built to democratize healthcare access, empower patients, and streamlin
 ## 📫 Contact & Contribution
 
 We welcome collaborators, developers, and healthcare innovators to join us in building the future of care.
+Contact : info@webqx.healthcare
 
